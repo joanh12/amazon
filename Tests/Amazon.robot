@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation  This is the basic infor about the whole suite
+Documentation  **This is the basic infor about the whole suite
 Resource  ../Resources/AmazonGUI.robot
 Resource  ../Resources/Common.robot
 Suite Setup  Common.Insert Testing Data
